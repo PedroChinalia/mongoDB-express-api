@@ -6,6 +6,6 @@
 
 2 - Run ```npm start``` to start the React application
 
-3 - Enter the server directory ```cd ../server```
+3 - Enter the server directory ```cd server```
 
 4 - Run ```npm run dev``` to start the Node server
